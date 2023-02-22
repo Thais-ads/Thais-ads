@@ -47,5 +47,6 @@ Estudando e me aprofundando em: React Native, ORACLE-PL-API,MONGDB, C#-API/MVC-.
  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
 
+![snake gif](https://github.com/Thais-ads/Thais-ads/blob/output/github-contribution-grid-snake.gif)
  
 
